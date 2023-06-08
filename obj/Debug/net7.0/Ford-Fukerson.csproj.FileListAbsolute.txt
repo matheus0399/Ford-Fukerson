@@ -1,0 +1,15 @@
+C:\Users\mathe\OneDrive\Área de Trabalho\Ford-Fukerson\obj\Debug\net7.0\Ford-Fukerson.csproj.AssemblyReference.cache
+C:\Users\mathe\OneDrive\Área de Trabalho\Ford-Fukerson\obj\Debug\net7.0\Ford-Fukerson.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mathe\OneDrive\Área de Trabalho\Ford-Fukerson\obj\Debug\net7.0\Ford-Fukerson.AssemblyInfoInputs.cache
+C:\Users\mathe\OneDrive\Área de Trabalho\Ford-Fukerson\obj\Debug\net7.0\Ford-Fukerson.AssemblyInfo.cs
+C:\Users\mathe\OneDrive\Área de Trabalho\Ford-Fukerson\obj\Debug\net7.0\Ford-Fukerson.csproj.CoreCompileInputs.cache
+C:\Users\mathe\OneDrive\Área de Trabalho\Ford-Fukerson\bin\Debug\net7.0\Ford-Fukerson.exe
+C:\Users\mathe\OneDrive\Área de Trabalho\Ford-Fukerson\bin\Debug\net7.0\Ford-Fukerson.deps.json
+C:\Users\mathe\OneDrive\Área de Trabalho\Ford-Fukerson\bin\Debug\net7.0\Ford-Fukerson.runtimeconfig.json
+C:\Users\mathe\OneDrive\Área de Trabalho\Ford-Fukerson\bin\Debug\net7.0\Ford-Fukerson.dll
+C:\Users\mathe\OneDrive\Área de Trabalho\Ford-Fukerson\bin\Debug\net7.0\Ford-Fukerson.pdb
+C:\Users\mathe\OneDrive\Área de Trabalho\Ford-Fukerson\obj\Debug\net7.0\Ford-Fukerson.dll
+C:\Users\mathe\OneDrive\Área de Trabalho\Ford-Fukerson\obj\Debug\net7.0\refint\Ford-Fukerson.dll
+C:\Users\mathe\OneDrive\Área de Trabalho\Ford-Fukerson\obj\Debug\net7.0\Ford-Fukerson.pdb
+C:\Users\mathe\OneDrive\Área de Trabalho\Ford-Fukerson\obj\Debug\net7.0\Ford-Fukerson.genruntimeconfig.cache
+C:\Users\mathe\OneDrive\Área de Trabalho\Ford-Fukerson\obj\Debug\net7.0\ref\Ford-Fukerson.dll
