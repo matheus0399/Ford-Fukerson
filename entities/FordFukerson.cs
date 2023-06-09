@@ -36,10 +36,15 @@ namespace busca.entities
                 s += a;
                 for (int i = 1; i < path.Count(); i++) {
                     Double a1 = lg2.linkWeight(lg2.getVertexIndex(path[i - 1]), lg2.getVertexIndex(path[i]));
+                    Double a2 = lg2.linkWeight(lg2.getVertexIndex(path[i]), lg2.getVertexIndex(path[i - 1]));
                     lg2.removeLink(lg2.getVertexIndex(path[i - 1]), lg2.getVertexIndex(path[i]));
                     if (a1 - a > 0) {
                         lg2.addLink(path[i - 1], path[i], a1 - a);
                     }
+                    if (a2 != 0) {
+                        lg2.removeLink(lg2.getVertexIndex(path[i]), lg2.getVertexIndex(path[i - 1]));
+                    }
+                    lg2.addLink(path[i], path[i - 1], a2 + a);
                 }
             } while(true);
             lg.showGraph();
@@ -64,10 +69,15 @@ namespace busca.entities
                 s += a;
                 for (int i = 1; i < path.Count(); i++) {
                     Double a1 = mg2.linkWeight(mg2.getVertexIndex(path[i - 1]), mg2.getVertexIndex(path[i]));
+                    Double a2 = mg2.linkWeight(mg2.getVertexIndex(path[i]), mg2.getVertexIndex(path[i - 1]));
                     mg2.removeLink(mg2.getVertexIndex(path[i - 1]), mg2.getVertexIndex(path[i]));
                     if (a1 - a > 0) {
                         mg2.addLink(path[i - 1], path[i], a1 - a);
                     }
+                    if (a2 != 0) {
+                        mg2.removeLink(mg2.getVertexIndex(path[i]), mg2.getVertexIndex(path[i - 1]));
+                    }
+                    mg2.addLink(path[i], path[i - 1], a2 + a);
                 }
             } while(true);
             mg.showGraph();
